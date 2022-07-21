@@ -18,7 +18,10 @@ h1 {text-align: center;
 /* Make your p tag a different color and italic */
 
 /* Put a border around your image */
-
+img {width: 20%;
+     float: right;
+     position: flex;
+     padding: 0px 5px;}
 /* Change the font-family of your list */
 ul {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #F25757;
@@ -30,6 +33,11 @@ ul {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 div {background-color: #454545;
     border-radius: 35px;
     padding: 2px 10px;
+}
+#imgText { display: flex;
+           flex-direction: row;
+           justify-content: center;
+           align-content: space-around;
 }
 #fact {color: #61E8E1;
        font-size: 24px;
