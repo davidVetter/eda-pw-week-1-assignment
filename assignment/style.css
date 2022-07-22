@@ -61,8 +61,8 @@ ul {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #fact {color: #61E8E1;
        font-size: 32px;
+       margin: 0px;
        padding: 0px;
-       margin: 0%;
        text-decoration: underline;
        text-decoration-style: wavy;
        text-decoration-color: #F25757;
