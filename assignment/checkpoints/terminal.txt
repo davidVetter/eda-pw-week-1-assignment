@@ -2,20 +2,43 @@
 
 # 1 - What is the command for listing the files in the current folder (directory)?
 
+Answer 1: The command is "ls".
+
 # 2 - What is the command for changing directories?
+
+Answer 2: The command is "cd".
 
 # 3 - What is the command for going "up" a folder (to a parent directory)?
 
+Answer 3: The command is "cd .."
+
 # 4 - What is a quick way to create a new folder?
+
+Answer 4: Using the "mkdir" command followed by the directory name quickly creates a new folder.
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 
+Answer 5a: Nothing happens(visually), no folders or files are displayed and the cursor moves to a new line ready for the next command.
+Answer 5b: The folders and/or files in the folder are displayed when "ls" is used on a folder containing files.
+
 # 6 - What is a quick way to create a new file?
+
+Answer 6: The "touch" command followed by the name and extension of the file to be created is a quick way to create a file.
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 
+Answer 7: My current git version is "git version 2.32.1 (Apple Git-133)".
+
 # 8 - Why would you run the command 'git status'?
+
+Answer 8: You run this command to get current information on the git for a certain directory. This can tell you if there has been changes 
+          since the last commit that need to be "added" or "staged", if staged changes need to be committed still, if you have commits that still 
+          need to be pushed and information like which branch you are on.
 
 # 9 - What does the command 'git add .' do?
 
+Answer 9: The command "git add ." will stage or add any and all changes made to any files in the current directory, making them ready to be committed.
+
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+
+Answer 10: The command is "git push origin main", "main" may need to be changed to "master" or whichever branch that repo is in.
