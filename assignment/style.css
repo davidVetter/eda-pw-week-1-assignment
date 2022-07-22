@@ -25,6 +25,7 @@ h1 {text-align: center;
     text-shadow: 3px 3px #61E8E1;
     font-size: 54px;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 13px;
 }
 /* Put a border around your image */
 img {width: 30%;
@@ -72,7 +73,6 @@ ul {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 #list {color: #f2e863;
        font-size: 20px;
 }
-/* Make the header and footer a different color from the background */
 /* Make your p tag a different color and italic */
 #footer {border-top-left-radius: 0;
          border-top-right-radius: 0;
